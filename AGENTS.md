@@ -1,3 +1,10 @@
-# Architektonica Creative Engine: repository instructions
+# Агентские инструкции для репозитория Architektonica Creative Engine
 
-Goal: write original, complete Russian website content for Architektonica. The user is not required to invent the creative direction. Use the nine skills in `.agents/skills/` selectively. Use available project evidence for claims, never invent case studies, credentials, metrics, deployed AI systems, or client endorsements. Creative metaphors and narrative experiments are encouraged. Research findings are not promises of guaranteed conversion. Produce publishable drafts, and explain material unknowns without stalling creative work.
+- **Главное:** когда пользователь сообщает «я сделал сайт / видео / программу / приложение» или даёт ссылку на проект, сразу используй `skills/architektonica-portfolio-case-writer/SKILL.md`. Создай полноценный кейс для портфолио со статьёй, карточкой, SEO, тегами и медиапланом; не требуй сначала заполнения брифа.
+- Цель — законченные оригинальные тексты сайта Architektonica, а не вопросы, шаблоны или оценки ради оценок.
+- Проектные факты и стадии — в `references/project/02_Architektonica_Fact_Bank.md`; кейсы — `03_Architektonica_Case_Studies.md`; полный набор услуг — `04_Architektonica_Services.md` + `Услуги_дополнительный_перечень.md`.
+- При написании страницы использовать идеацию, подходящего читателя, драматургию и редактуру. Творческие сценарии разрешены, придуманные клиентские результаты нет.
+- Исследовательские механизмы — по `methods/research-evidence-map.md`; ссылаться на исходный реестр, не обещать «гарантированную нейроконверсию».
+- Специфика Engine — `methods/engine-field-guide.md`; редактирование только копии исходного файла.
+- Пользователь не обязан уметь писать. Не перекладывать на него создание слогана, ракурса, структуры и текста кейса. Новый проект может отсутствовать в существующем реестре.
+- Перед публикацией проверить стадии AI-работ, NDA, реальные имена, цифры и контакты.
